@@ -1,0 +1,5 @@
+Dudas:
+	- No me queda claro como utilizar el campo prioriti y price_list, así que he puesto que cuando obtenga más de un valor en una búsqueda, se quede con el que tenga el price_list más alto.
+	
+	- ¿En los test se le pasan una fecha, pero cual es? ¿startDate o endDate?
+		Yo he puesto como startDate y le he puesto endDate el mismo día a las 23:59:59 porque no me quedaba claro, aunque se le puede pasar solo startDate y busca todos los registros posteriores a esa fecha.
